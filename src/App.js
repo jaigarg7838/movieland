@@ -53,7 +53,7 @@ const[searchTerm,setsearchTerm]= useState('');
         </div>
       ) :
       <div>
-        <h2>No Movie Found</h2>
+        <h2>No Movie Founds</h2>
         </div>
       }
 
